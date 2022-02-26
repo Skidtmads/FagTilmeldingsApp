@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace FagTilmeldingsApp.Codes
 {
     internal class Teacher
-    {
+    { 
         
         public string? ForNavn { get; set; }
         public string? EfterNavn { get; set; }
